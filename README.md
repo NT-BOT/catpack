@@ -4,7 +4,7 @@
 This is just heroku support source 
 Main source is here [main source](https://github.com/NT-BOT/catuserbot) fork and give star to that repo 
 
-## DeployNT-BOT
+## Deploy To Heroku
 [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FJisan09%2Fcatpack)
 
 
