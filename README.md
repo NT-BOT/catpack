@@ -7,6 +7,6 @@ Main source is here [main source](https://github.com/NT-BOT/catuserbot) fork and
 ## DeployNT-BOT
 [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FJisan09%2Fcatpack)
 
-## credits
-   - [@midnightmadwalk](https://t.me/midnightmadwalk)
-   - [@DeletedUser420](https://t.me/DeletedUser420)
+
+
+
